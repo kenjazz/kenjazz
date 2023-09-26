@@ -90,12 +90,7 @@ I’m a Technologist With a Strong Record of cost-effective project completion. 
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kenjazz&show_icons=true&hide=stars&theme=radical">
   </a> 
 
- <a href="https://github.com/kenjazz">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjazz&layout=compact&theme=radical&card_width=250">
-  </a>
 
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenjazz&theme=radical" alt="Kenjazz" /></p>
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
 
 
