@@ -28,7 +28,7 @@
 
 
 ### Glad to see you here!  
-I’m a Technologist With a Strong Record of cost-effective project completion. Strongly Knowledgeable in Market Trend, Productive business relationship across variety of Industries, and oversight of large budget and workforce. ---. . I`m Passionate about #HumanTecnology #FinTech, #AgroTech, #ArtificialInterligence and #FilmMaking
+I’m an Information Technologist With a Strong Record of cost-effective project completion. Strongly Knowledgeable in Market Trend, Productive business relationship across variety of Industries, and oversight of large budget and workforce. ---. . I`m Passionate about #HumanTecnology #FinTech, #AgroTech, #ArtificialInterligence and #FilmMaking
   
 
 <br/>  
